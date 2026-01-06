@@ -9,6 +9,7 @@ dependencies:
   - fpdf
   - gdal
   - geopandas
+  - geoviews
   - h5py
   - holoviews
   - hvplot
