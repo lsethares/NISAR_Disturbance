@@ -2,24 +2,30 @@ name: NISAR_Disturbance
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
-  - gdal
-  - scipy
-  - pandas
-  - scikit-learn
-  - ipywidgets
-  - rasterio
-  - h5py
-  - earthaccess
-  - pyproj
-  - geopandas
   - asf_search 
-  - fpdf
-  - tqdm
   - boto3
-  - jupyter
+  - datashader
+  - earthaccess
+  - fpdf
+  - gdal
+  - geopandas
+  - geoviews
+  - h5py
+  - holoviews
+  - hvplot
   - ipykernel
-  - notebook
+  - ipywidgets
+  - jupyter
+  - matplotlib
   - nb_conda_kernels  
-  - pre-commit  
+  - notebook
+  - numpy
+  - pandas
+  - pre-commit 
+  - python
+  - pyproj
+  - rasterio
+  - rioxarray
+  - scikit-learn
+  - scipy
+  - tqdm
